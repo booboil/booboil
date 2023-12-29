@@ -60,9 +60,10 @@
 ---
 </details>
 
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="50"/>
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
   ✨ Hub主目前为一名广东大四学生，喜欢编程，旅行，Tesla和SpaceX。日常分享一些自己的小应用程序，欢迎大家与我一起交流
 
+<br>
   
 <!--my introduction end -->
 
