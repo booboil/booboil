@@ -62,11 +62,11 @@
 </details>
 
   ✨ Hub主目前为一名广东大四学生，喜欢编程，旅行，Tesla和SpaceX。日常分享一些自己的小应用和工具等程序，欢迎大家与我一起交流
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
   
 <!--my introduction end -->
 
 ## ✨与我有关
-
 <div align="center"> 
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=booboil&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booboil&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
@@ -76,6 +76,14 @@
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px">
 </p>
 
+<img src="https://cdn.jsdelivr.net/gh/booboil/booboil/assets/images/icon.png" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/booboil/booboil/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/booboil/booboil/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/booboil/booboil/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -84,3 +92,4 @@
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
