@@ -10,9 +10,8 @@
 <!--my introduction start-->
 
   ✨ Hub主目前为一名广东大四学生，喜欢编程，旅行，Tesla和SpaceX。日常分享一些自己的小应用和工具等程序，欢迎大家与我一起交流
+
+  <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=booboil&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
  
 <!--my introduction end -->
- 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
 
