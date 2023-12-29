@@ -44,7 +44,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="http://175.178.172.77" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
@@ -61,7 +60,7 @@
 ---
 </details>
 
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="150"/>
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" width="50"/>
   ✨ Hub主目前为一名广东大四学生，喜欢编程，旅行，Tesla和SpaceX。日常分享一些自己的小应用程序，欢迎大家与我一起交流
 
   
