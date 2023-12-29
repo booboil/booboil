@@ -16,14 +16,6 @@
 - ✍️ &nbsp; 将观看动漫和尝试最新的设计趋势作为爱好
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为缓解任何压力的终极解决方案
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | Spring | Spring Boot | Spring Cloud  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Vue 
-- 🛢 &nbsp; MySQL | Redis | Rabbitmq
-- 🔧 &nbsp; IntelliJ IDEA | WebStorm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; X | YouTobe | Telegram | 王者荣耀（李元芳）
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
