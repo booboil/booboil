@@ -12,8 +12,8 @@
 - 🤔 &nbsp; 探索新技术并开发软件解决方案和快速技巧
 - 🎓 &nbsp; 学习软件工程、计算机编程和英语
 - 💼 &nbsp; Java开发人员
-- 🌱 &nbsp; Tesla和SpaceX爱好者
-- ✍️ &nbsp; 将开跑车和尝试最新的设计趋势作为爱好
+- 🌱 &nbsp; ![Tesla](https://img.shields.io/badge/-Tesla-333333?style=flat&logo=tesla)和![SpaceX](https://img.shields.io/badge/-SpaceX-333333?style=flat&logo=spacex)爱好者
+- ✍️ &nbsp; 将开![Ford](https://img.shields.io/badge/-Ford-333333?style=flat&logo=ford)![Ferrari](https://img.shields.io/badge/-Ferrari-333333?style=flat&logo=ferrari)跑车和尝试最新的设计趋势作为爱好
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为缓解任何压力的终极解决方案
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -24,6 +24,7 @@
   ![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat&logo=spring-security)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 - 🌐 &nbsp;
@@ -35,12 +36,14 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Apifox](https://img.shields.io/badge/-Apifox-333333?style=flat&logo=apifox)
 - 🖥 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🔧 &nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea-ide)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
