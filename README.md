@@ -22,7 +22,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-  ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-333333?style=flat&logo=spring-cloud)
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat&logo=spring-security)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
@@ -41,6 +41,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 - 🔧 &nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea-ide)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
