@@ -30,7 +30,7 @@
 - 🌐 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
