@@ -44,6 +44,7 @@
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublimetext&logoColor=FF9800)
   ![Apifox](https://img.shields.io/badge/-Apifox-333333?style=flat&logo=apifox)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
 - 🖥 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
