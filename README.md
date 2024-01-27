@@ -39,7 +39,9 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=apachemaven&logoColor=C71A36)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublimetext&logoColor=FF9800)
   ![Apifox](https://img.shields.io/badge/-Apifox-333333?style=flat&logo=apifox)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 - 🖥 &nbsp;
