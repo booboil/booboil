@@ -13,7 +13,7 @@
 - 🎓 &nbsp; 学习软件工程、计算机编程和英语
 - :shipit: &nbsp; Java开发人员
 - 🚀 &nbsp; ![Tesla](https://img.shields.io/badge/-Tesla-333333?style=flat&logo=tesla&logoColor=CC0000)和![SpaceX](https://img.shields.io/badge/-SpaceX-333333?style=flat&logo=spacex)爱好者
-- ✍️ &nbsp; 将开【福特野马】跑车作为新的人生目标
+- ✍️ &nbsp; 将开【Ford Mustang】跑车作为新的人生目标
 - ☕ &nbsp; 我相信，一杯完美的咖啡可以成为缓解任何压力的终极解决方案
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
